@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataModel
 {
-    class Colaborador : Persona
+    public class Colaborador : Persona
     {
         decimal sueldo;
         string ocupacion;
