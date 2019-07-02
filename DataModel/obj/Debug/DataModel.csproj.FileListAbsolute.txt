@@ -4,3 +4,9 @@ C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\DataModel\obj\Debug\Dat
 C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
 C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\DataModel\obj\Debug\DataModel.dll
 C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\DataModel\obj\Debug\DataModel.pdb
+C:\Users\dejim\Source\Repos\AyudameACrecer\DataModel\bin\Debug\DataModel.dll
+C:\Users\dejim\Source\Repos\AyudameACrecer\DataModel\bin\Debug\DataModel.pdb
+C:\Users\dejim\Source\Repos\AyudameACrecer\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\dejim\Source\Repos\AyudameACrecer\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\dejim\Source\Repos\AyudameACrecer\DataModel\obj\Debug\DataModel.dll
+C:\Users\dejim\Source\Repos\AyudameACrecer\DataModel\obj\Debug\DataModel.pdb

@@ -74,6 +74,7 @@ namespace VistasAyudameACrecer
 
         private void TabAsistencia_Click(object sender, EventArgs e)
         {
+
         }
 
         private void TabNinos_Click(object sender, EventArgs e)
@@ -125,5 +126,10 @@ namespace VistasAyudameACrecer
             //Aquí va el código para añadir Patrocinadores
         }
         #endregion
+
+        private void Cuerpo_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -16,7 +16,7 @@ namespace VistasAyudameACrecer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Cuerpo());
+            Application.Run(new LogIn());
         }
     }
 }

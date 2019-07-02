@@ -34,7 +34,25 @@ namespace VistasAyudameACrecer
 
             usuario.User = tbUser.Text;
             usuario.Password = tbPassword.Text;
+            DataManager manager = new DataManager();
 
+            usuario = manager.ValidarUsuario(usuario);
+
+            if (usuario.Autenticado)
+            {
+                MessageBox.Show("Bienvenido!");
+                Cuerpo cuerpo = new Cuerpo();
+                cuerpo.Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Usuario o contraseña incorrectos");
+                foreach(TextBox t in this.Controls)
+                {
+                    t.Clear();
+                }
+            }
             
         }
     }
