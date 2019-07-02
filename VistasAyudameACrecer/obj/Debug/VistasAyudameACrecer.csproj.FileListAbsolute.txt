@@ -1,0 +1,14 @@
+C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\VistasAyudameACrecer\obj\Debug\VistasAyudameACrecer.csprojAssemblyReference.cache
+C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\VistasAyudameACrecer\obj\Debug\VistasAyudameACrecer.Cuerpo.resources
+C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\VistasAyudameACrecer\obj\Debug\VistasAyudameACrecer.LogIn.resources
+C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\VistasAyudameACrecer\obj\Debug\VistasAyudameACrecer.Properties.Resources.resources
+C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\VistasAyudameACrecer\obj\Debug\VistasAyudameACrecer.csproj.GenerateResource.cache
+C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\VistasAyudameACrecer\obj\Debug\VistasAyudameACrecer.csproj.CoreCompileInputs.cache
+C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\VistasAyudameACrecer\bin\Debug\VistasAyudameACrecer.exe.config
+C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\VistasAyudameACrecer\bin\Debug\VistasAyudameACrecer.exe
+C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\VistasAyudameACrecer\bin\Debug\VistasAyudameACrecer.pdb
+C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\VistasAyudameACrecer\bin\Debug\DataModel.dll
+C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\VistasAyudameACrecer\bin\Debug\DataModel.pdb
+C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\VistasAyudameACrecer\obj\Debug\VistasAyudameACrecer.csproj.CopyComplete
+C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\VistasAyudameACrecer\obj\Debug\VistasAyudameACrecer.exe
+C:\Users\Kamehametroll\source\repos\VistasAyudameACrecer\VistasAyudameACrecer\obj\Debug\VistasAyudameACrecer.pdb

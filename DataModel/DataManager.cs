@@ -12,7 +12,7 @@ namespace DataModel
     public class DataManager
     {
         private SqlConnection Conexion =                                 //Este es el atributo Conexion de la clase, la cadena de conexion esta definida en el App.Config
-            new SqlConnection(ConfigurationManager.ConnectionStrings["DanielDataBase"].ConnectionString); //Si vas a correrlo en tu PC, tienes que agregar tu cadena de conexion al App.Config y sustituir aqui donde dice "DanielDataBase" por el nombre de tu cadena de conexion
+            new SqlConnection(ConfigurationManager.ConnectionStrings["GabrielDataBase"].ConnectionString); //Si vas a correrlo en tu PC, tienes que agregar tu cadena de conexion al App.Config y sustituir aqui donde dice "DanielDataBase" por el nombre de tu cadena de conexion
 
         public Usuario ValidarUsuario(Usuario usuario)
         {
